@@ -1,12 +1,12 @@
 ## OpenCV: Open Source Computer Vision Library
 
-### Resources
-
-* Homepage: <https://opencv.org>
-  * Courses: <https://opencv.org/courses>
-* Docs: <https://docs.opencv.org/master/>
-* Q&A forum: <http://answers.opencv.org>
-* Issue tracking: <https://github.com/opencv/opencv/issues>
+### Made with C++ 85.5%
+C 4.1%
+CMake 2.6%
+Java 2.2%
+Python 2.2%
+Objective-C++ 1.1%
+Other 2.3%
 
 
 ### Contributing
